@@ -2,7 +2,7 @@ backend:
   name: github
   repo: steven-edwards/steven-edwards.github.io
   branch: master
-  site_domain: jekyll-ecommerce-snipcart.netlify.com
+  site_domain: quizzical-easley-4da790.netlify.com
 
 media_folder: "images/uploads"
 
